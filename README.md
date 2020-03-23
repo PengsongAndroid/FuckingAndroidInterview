@@ -1,7 +1,7 @@
 # FuckingAndroidInterview
 Andoird Interview is fucking
 
-![image](https://github.com/PengsongAndroid/FuckingAndroidInterview/blob/master/interview.png)
+[所有知识点脑图查看](https://github.com/PengsongAndroid/FuckingAndroidInterview/blob/master/interview.png)
 
 
 # 面试
