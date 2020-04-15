@@ -130,7 +130,7 @@ Andoird Interview is fucking
 
 ###### 常用开源库
 
-#### Handler
+#### [Handler](https://app.yinxiang.com/fx/f9ebe6a9-1f76-4773-8ade-d6dd974a6e9b)
 
 ##### 原理，引出另外两个重要的类
 
@@ -466,7 +466,7 @@ Andoird Interview is fucking
 
 ### 基础 
 
-#### 关键字final、static修饰方法/变量，原理及适用场景
+#### [关键字final、static修饰方法/变量，原理及适用场景](https://app.yinxiang.com/fx/94069734-5674-4e97-bcba-0880c914ac3d)
 
 #### 多态
 
@@ -526,7 +526,7 @@ Andoird Interview is fucking
 
 #### 引用类型及使用场景
 
-#### 垃圾回收
+#### [垃圾回收](https://app.yinxiang.com/fx/7d2338e0-d3e2-4155-bad5-d0e1c1ad218b)
 
 ##### GC算法
 
@@ -656,7 +656,7 @@ Andoird Interview is fucking
 
 ## 网络基础
 
-### 网络分层
+### [网络分层](https://app.yinxiang.com/fx/22d4b733-63ee-4781-8faf-4d4118c836d0)
 
 ### Socket
 
